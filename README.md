@@ -1,16 +1,45 @@
-## Hi there 👋
+header
 
-<!--
-**OksanaMarquezMayas/OksanaMarquezMayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience
+
+Courses
+
+Certificates
+
+Tools
+
+Testing Documentation
+
+Web Application Testing
+
+Mobile Application Testing
+
+Data Tools
+
+Code Tools
+
+My Projects
+
+Test Plan
+
+Test cases
+
+Bug-reports
+
+SQL Queries
+
+Postman Requires
+
+Git Queries
+
+HTML/CSS
+
+Java Script
+
+Paython
+
+Follow Me
