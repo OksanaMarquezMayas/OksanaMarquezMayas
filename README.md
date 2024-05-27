@@ -44,12 +44,16 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 <h3>My Projects</h3>
     <ul>
         <li><a href="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing"> Test Plan</a></li>
-        <li><a href="">Test Cases</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
-        <li><a href="">Bug Reports</a></li>
-        <li><a href="">Postman</a></li>
-        <li><a href="">SQL Queries</a></li>
-        <li><a href="">Git</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports</a></li>
+        <li><a href="https://docs.google.com/document/d/1dTk9pBypmO-uJf_kSKvyEJRiRxMPe2eGzACeSgA8-wc/edit?usp=sharing">Postman</a></li>
+        <li><a href="https://docs.google.com/document/d/1gNLugpQn8KIuZn9_H3r1L4rhwO03_MoU2vxlPW6v-Ks/edit?usp=sharing">SQL Queries</a></li>
+        <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
     </ul>
 
-Follow Me
+<h3>Contact Me</h3>
+    <ul>
+        <li><a href="t.me/oks_marma/">Telegram</a></li>
+        <li><a href="">WhatsApp</a></li>
+        <li><a href="">Viber</a></li>
