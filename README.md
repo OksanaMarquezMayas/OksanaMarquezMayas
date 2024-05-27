@@ -43,32 +43,13 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 
 <h3>My Projects</h3>
     <ul>
-        <li><a src="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing"> Test Plan</li>
-        <li>Test Cases</li>
-        <li>Check-lists</li>
-        <li>Bug Reports</li>
-        <li>Postman</li>
-        <li>SQL Queries</li>
-        <li>Git</li>
-        
+        <li><a href="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing"> Test Plan</a></li>
+        <li><a href="">Test Cases</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
+        <li><a href="">Bug Reports</a></li>
+        <li><a href="">Postman</a></li>
+        <li><a href="">SQL Queries</a></li>
+        <li><a href="">Git</a></li>
     </ul>
-
-Test Plan
-
-Test cases
-
-Bug-reports
-
-SQL Queries
-
-Postman Requires
-
-Git Queries
-
-HTML/CSS
-
-Java Script
-
-Paython
 
 Follow Me
