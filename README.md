@@ -54,6 +54,6 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 
 <h3>Contact Me</h3>
     <ul>
-        <li><a href="t.me/oks_marma/">Telegram</a></li>
+        <li><a href="t.me/@oks_marma/">Telegram</a></li>
         <li><a href="">WhatsApp</a></li>
         <li><a href="">Viber</a></li>
