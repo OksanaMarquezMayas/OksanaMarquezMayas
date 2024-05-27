@@ -1,4 +1,4 @@
-[![header](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
+[![Header](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 
 Portfolio
 
@@ -19,17 +19,23 @@ Courses
 
 Certificates
 
-Tools
+Languages and Tools
 
-Testing Documentation
+![Jira](https://img.shields.io/badge/-Jira-090909?style-for-the-badge&logo=jira&logocolor=47C5FB)
+![Trello](https://img.shields.io/badge/-Trello-090909?style-for-the-badge&logo=trello&logocolor=097CDB)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style-for-the-badge&logo=testrail&logocolor=F8C52C)
+![Mantis](https://img.shields.io/badge/-Mantis-090909?style-for-the-badge&logo=mantis&logocolor=F88C00)
+![Sql](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql&logocolor=E9D54D)
+![Postman](https://img.shields.io/badge/-Postman-090909?style-for-the-badge&logo=postman&logocolor=E5D3FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript&logocolor=6296CC)
+![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo=html&logocolor=00648B)
+![CSS](https://img.shields.io/badge/-CSS-090909?style-for-the-badge&logo=css&logocolor=8ECAE6)
+![Slack](https://img.shields.io/badge/-Slack-090909?style-for-the-badge&logo=slack&logocolor=FFB703)
+![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=git&logocolor=FFAFCC)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style-for-the-badge&logo=GitHub&logocolor=CDB4DB)
+![JMeter](https://img.shields.io/badge/-Jmeter-090909?style-for-the-badge&logo=jmeter&logocolor=FB8500)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style-for-the-badge&logo=devtools&logocolor=C1121F)
 
-Web Application Testing
-
-Mobile Application Testing
-
-Data Tools
-
-Code Tools
 
 My Projects
 
