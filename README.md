@@ -22,6 +22,11 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
     </ul>
 
 <h3>Certificates</h3>
+    <ul>
+        <li><a href="https://drive.google.com/file/d/1I_q39Cz27kQWRBhvxfMHQKeDcL2dRTto/view?usp=sharing">GoIT</a></li>
+        <li><a href="https://drive.google.com/file/d/1_qJK6ddaMyPzsj4cbzBhkVpUS1bcp71C/view?usp=sharing">Kharkiv IT Cluster</a></li>
+        <li><a href="">QATestLab</a></li>
+    </ul>
 
 <h3>Languages and Tools</h3>
 
