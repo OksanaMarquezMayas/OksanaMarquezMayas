@@ -39,21 +39,21 @@
 
 <h3>Languages and Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/-Jira-c2beba?style=for-the-badge&logo=jira&logocolor=47C5FB" class="badge">
-    <img src="https://img.shields.io/badge/-Trello-c2beba?style=for-the-badge&logo=trello&logocolor=097CDB" class="badge">
-    <img src="https://img.shields.io/badge/-TestRail-c2beba?style=for-the-badge&logo=testrail&logocolor=F8C52C" class="badge">
-    <img src="https://img.shields.io/badge/-Mantis-c2beba?style=for-the-badge&logo=mantis&logocolor=F88C00" class="badge">
-    <img src="https://img.shields.io/badge/-SQL-c2beba?style=for-the-badge&logo=mysql&logocolor=C1121F" class="badge">
-    <img src="https://img.shields.io/badge/-Postman-c2beba?style=for-the-badge&logo=postman&logocolor=E5D3FF" class="badge">
-    <img src="https://img.shields.io/badge/-JavaScript-c2beba?style=for-the-badge&logo=JavaScript&logocolor=6296CC" class="badge">
-    <img src="https://img.shields.io/badge/-HTML-c2beba?style=for-the-badge&logo=html&logocolor=00648B" class="badge">
-    <img src="https://img.shields.io/badge/-CSS-c2beba?style=for-the-badge&logo=css&logocolor=8ECAE6" class="badge">
-    <img src="https://img.shields.io/badge/-Slack-c2beba?style=for-the-badge&logo=slack&logocolor=FFB703" class="badge">
-    <img src="https://img.shields.io/badge/-Git-c2beba?style=for-the-badge&logo=git&logocolor=FFAFCC" class="badge">
-    <img src="https://img.shields.io/badge/-GitHub-c2beba?style=for-the-badge&logo=GitHub&logocolor=CDB4DB" class="badge">
-    <img src="https://img.shields.io/badge/-JMeter-c2beba?style=for-the-badge&logo=jmeter&logocolor=FB8500" class="badge">
-    <img src="https://img.shields.io/badge/-DevTools-c2beba?style=for-the-badge&logo=devtools&logocolor=C1121F" class="badge">
-    <img src="https://img.shields.io/badge/-VSCode-c2beba?style=for-the-badge&logo=VSCode&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-Jira-bb9476?style=for-the-badge&logo=jira&logocolor=47C5FB" class="badge">
+    <img src="https://img.shields.io/badge/-Trello-bb9476?style=for-the-badge&logo=trello&logocolor=097CDB" class="badge">
+    <img src="https://img.shields.io/badge/-TestRail-bb9476?style=for-the-badge&logo=testrail&logocolor=F8C52C" class="badge">
+    <img src="https://img.shields.io/badge/-Mantis-bb9476?style=for-the-badge&logo=mantis&logocolor=F88C00" class="badge">
+    <img src="https://img.shields.io/badge/-SQL-bb9476?style=for-the-badge&logo=mysql&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-Postman-bb9476?style=for-the-badge&logo=postman&logocolor=E5D3FF" class="badge">
+    <img src="https://img.shields.io/badge/-JavaScript-bb9476?style=for-the-badge&logo=JavaScript&logocolor=6296CC" class="badge">
+    <img src="https://img.shields.io/badge/-HTML-bb9476?style=for-the-badge&logo=html&logocolor=00648B" class="badge">
+    <img src="https://img.shields.io/badge/-CSS-bb9476?style=for-the-badge&logo=css&logocolor=8ECAE6" class="badge">
+    <img src="https://img.shields.io/badge/-Slack-bb9476?style=for-the-badge&logo=slack&logocolor=FFB703" class="badge">
+    <img src="https://img.shields.io/badge/-Git-bb9476?style=for-the-badge&logo=git&logocolor=FFAFCC" class="badge">
+    <img src="https://img.shields.io/badge/-GitHub-bb9476?style=for-the-badge&logo=GitHub&logocolor=CDB4DB" class="badge">
+    <img src="https://img.shields.io/badge/-JMeter-bb9476?style=for-the-badge&logo=jmeter&logocolor=FB8500" class="badge">
+    <img src="https://img.shields.io/badge/-DevTools-bb9476?style=for-the-badge&logo=devtools&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-VSCode-bb9476?style=for-the-badge&logo=VSCode&logocolor=C1121F" class="badge">
 </p>
 
 <h3>My Projects</h3>
@@ -69,14 +69,15 @@
 
 <style>
 .contact-links a {
-    margin-right: 15px;
+    margin-right: 2cm;
     display: inline-block;
 }
 
 .badge {
     font-size: 1.2em;
     padding: 5px 10px;
-    border-radius: 12px;
+    background-color: #bb9476;
+    border-radius: 50%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 5px;
     display: inline-block;
