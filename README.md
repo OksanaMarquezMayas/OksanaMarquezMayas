@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.contact-links a {
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.badge {
+    font-size: 1.2em;
+    padding: 5px 10px;
+    background-color: #1E90FF; /* Updated to blue color */
+    border-radius: 100%; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 5px;
+    display: inline-block;
+}
+</style>
+</head>
+<body>
 [![Header](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)
 
 <h1>Portfolio</h1>
@@ -66,20 +87,5 @@
     <li><a href="https://docs.google.com/document/d/1gNLugpQn8KIuZn9_H3r1L4rhwO03_MoU2vxlPW6v-Ks/edit?usp=sharing">SQL Queries</a></li>
     <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
 </ul>
-
-<style>
-.contact-links a {
-    margin-right: 20px;
-    display: inline-block;
-}
-
-.badge {
-    font-size: 1.2em;
-    padding: 5px 10px;
-    background-color: #1E90FF; /* Updated to blue color */
-    border-radius: 100%; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 5px;
-    display: inline-block;
-}
-</style>
+</body>
+</html>
