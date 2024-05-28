@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/-Trello-FF7F00?style=for-the-badge&logo=trello&logocolor=00BFFF">
     <img src="https://img.shields.io/badge/-TestRail-FFFF00?style=for-the-badge&logo=testrail&logocolor=FFD700">
     <img src="https://img.shields.io/badge/-Mantis-00FF00?style=for-the-badge&logo=mantis&logocolor=FFA500">
-    <img src="https://img.shields.io/badge/-SQL-0000FF?style=for-the-badge&logo=mysql&logocolor=FF4500">
+    <img src="https://img.shields.io/badge/-SQL-0000FF?style=for-the-badge&logo=mysql&logocolor=1E90FF">
     <img src="https://img.shields.io/badge/-Postman-4B0082?style=for-the-badge&logo=postman&logocolor=FFA07A">
     <img src="https://img.shields.io/badge/-JavaScript-9400D3?style=for-the-badge&logo=JavaScript&logocolor=FFD700">
     <img src="https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html&logocolor=FF6347">
