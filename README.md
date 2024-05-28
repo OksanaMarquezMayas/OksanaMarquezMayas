@@ -1,14 +1,19 @@
 [![Header](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 
 <h1>Portfolio</h1>
+<h3>Contact Me</h3>
+    <ul>
+        <li><a href="https://t.me/oks_marma">Telegram</a></li>
+        <li><a href="https://wa.link/xp8801">WhatsApp</a></li>
+        <li><a href="https://www.linkedin.com/in/oksana-marquezmayas-122a452a4/">LinkedIn</a></li>
 
 <h3>About Me</h3>
 
-I'm a passionate and motivated manual QA Engineer with a strong foundation in testing principles and a growing skillset. With 6 months of total experience in software testing, I've spent the last 2 months actively working as a freelancer on platforms like Testbirds, UTest, and TesterWork. During this freelance time, I've honed my skills in identifying and reporting software defects across various applications.
+I'm a passionate and motivated manual QA Engineer with a strong foundation in testing theory and a growing skillset. With 6 months of total experience in software testing, I've spent the last 2 months actively working as a freelancer on platforms like Testbirds, UTest, and TesterWork. During this freelance time, I've honed my skills in identifying and reporting software defects across various applications.
 
 <h3>My Strengths:</h3>
 
-Testing Fundamentals: Adept in applying different testing techniques (e.g., black-box, exploratory) and methodologies (e.g., agile) to ensure software quality.
+Testing Fundamentals: Adept in applying different testing techniques (e.g., black-box, exploratory) and SDLC methodologies (e.g., SCRUM, Kanban) to ensure software quality.
 Testing Tools: Proficient in using project management tools like Jira, Trello, Mantis, TestRail for seamless test case organization and reporting.
 Technical Skills: Possess a strong understanding of API testing with tools like Postman and Swagger. Can navigate databases using SQL and perform load testing with JMeter.
 Basic Programming Knowledge: Familiar with web development fundamentals like HTML, CSS, and JavaScript. Understanding of scripting languages like Python and data formats like JSON and XML adds value to my testing approach.
@@ -51,14 +56,8 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
         <li><a href="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing"> Test Plan</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
-        <li><a href="https://drive.google.com/drive/folders/117oEwYvD1mvMcYMMh0awaghnqF25Ezfx?usp=sharing">Bug Reports</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports</a></li>
         <li><a href="https://docs.google.com/document/d/1dTk9pBypmO-uJf_kSKvyEJRiRxMPe2eGzACeSgA8-wc/edit?usp=sharing">Postman</a></li>
         <li><a href="https://docs.google.com/document/d/1gNLugpQn8KIuZn9_H3r1L4rhwO03_MoU2vxlPW6v-Ks/edit?usp=sharing">SQL Queries</a></li>
         <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
     </ul>
-
-<h3>Contact Me</h3>
-    <ul>
-        <li><a href="https://t.me/oks_marma">Telegram</a></li>
-        <li><a href="https://wa.link/xp8801">WhatsApp</a></li>
-        <li><a href="https://www.linkedin.com/in/oksana-marquezmayas-122a452a4/">LinkedIn</a></li>
