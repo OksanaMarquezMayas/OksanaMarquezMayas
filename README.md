@@ -69,16 +69,16 @@
 
 <style>
 .contact-links a {
-    margin-right: 20px;
+    margin-right: 2cm;
     display: inline-block;
 }
 
 .badge {
     font-size: 1.2em;
     padding: 5px 10px;
-    background-color: #87CEFA; /* Updated to light blue color */
-    border-radius: 60%; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    background-color: #1E90FF; /* Updated to blue color */
+    border-radius: 50%; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 5px;
     display: inline-block;
 }
