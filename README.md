@@ -1,4 +1,4 @@
-[![Header](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)](https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
+[![Header](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)
 
 <h1>Portfolio</h1>
 
@@ -39,21 +39,21 @@
 
 <h3>Languages and Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/-Jira-87CEFA?style=for-the-badge&logo=jira&logocolor=1E90FF" class="badge">
-    <img src="https://img.shields.io/badge/-Trello-87CEFA?style=for-the-badge&logo=trello&logocolor=00BFFF" class="badge">
-    <img src="https://img.shields.io/badge/-TestRail-87CEFA?style=for-the-badge&logo=testrail&logocolor=FFD700" class="badge">
-    <img src="https://img.shields.io/badge/-Mantis-87CEFA?style=for-the-badge&logo=mantis&logocolor=FFA500" class="badge">
-    <img src="https://img.shields.io/badge/-SQL-87CEFA?style=for-the-badge&logo=mysql&logocolor=FF4500" class="badge">
-    <img src="https://img.shields.io/badge/-Postman-87CEFA?style=for-the-badge&logo=postman&logocolor=FFA07A" class="badge">
-    <img src="https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=JavaScript&logocolor=FFD700" class="badge">
-    <img src="https://img.shields.io/badge/-HTML-87CEFA?style=for-the-badge&logo=html&logocolor=FF6347" class="badge">
-    <img src="https://img.shields.io/badge/-CSS-87CEFA?style=for-the-badge&logo=css&logocolor=4682B4" class="badge">
-    <img src="https://img.shields.io/badge/-Slack-87CEFA?style=for-the-badge&logo=slack&logocolor=FFB6C1" class="badge">
-    <img src="https://img.shields.io/badge/-Git-87CEFA?style=for-the-badge&logo=git&logocolor=FF6347" class="badge">
-    <img src="https://img.shields.io/badge/-GitHub-87CEFA?style=for-the-badge&logo=GitHub&logocolor=800080" class="badge">
-    <img src="https://img.shields.io/badge/-JMeter-87CEFA?style=for-the-badge&logo=jmeter&logocolor=FF4500" class="badge">
-    <img src="https://img.shields.io/badge/-DevTools-87CEFA?style=for-the-badge&logo=devtools&logocolor=B22222" class="badge">
-    <img src="https://img.shields.io/badge/-VSCode-87CEFA?style=for-the-badge&logo=VSCode&logocolor=1E90FF" class="badge">
+    <img src="https://img.shields.io/badge/-Jira-FF0000?style=for-the-badge&logo=jira&logocolor=1E90FF" class="badge">
+    <img src="https://img.shields.io/badge/-Trello-FF7F00?style=for-the-badge&logo=trello&logocolor=00BFFF" class="badge">
+    <img src="https://img.shields.io/badge/-TestRail-FFFF00?style=for-the-badge&logo=testrail&logocolor=FFD700" class="badge">
+    <img src="https://img.shields.io/badge/-Mantis-00FF00?style=for-the-badge&logo=mantis&logocolor=FFA500" class="badge">
+    <img src="https://img.shields.io/badge/-SQL-0000FF?style=for-the-badge&logo=mysql&logocolor=FF4500" class="badge">
+    <img src="https://img.shields.io/badge/-Postman-4B0082?style=for-the-badge&logo=postman&logocolor=FFA07A" class="badge">
+    <img src="https://img.shields.io/badge/-JavaScript-9400D3?style=for-the-badge&logo=JavaScript&logocolor=FFD700" class="badge">
+    <img src="https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html&logocolor=FF6347" class="badge">
+    <img src="https://img.shields.io/badge/-CSS-FF7F00?style=for-the-badge&logo=css&logocolor=4682B4" class="badge">
+    <img src="https://img.shields.io/badge/-Slack-FFFF00?style=for-the-badge&logo=slack&logocolor=FFB6C1" class="badge">
+    <img src="https://img.shields.io/badge/-Git-00FF00?style=for-the-badge&logo=git&logocolor=FF6347" class="badge">
+    <img src="https://img.shields.io/badge/-GitHub-0000FF?style=for-the-badge&logo=GitHub&logocolor=800080" class="badge">
+    <img src="https://img.shields.io/badge/-JMeter-4B0082?style=for-the-badge&logo=jmeter&logocolor=FF4500" class="badge">
+    <img src="https://img.shields.io/badge/-DevTools-9400D3?style=for-the-badge&logo=devtools&logocolor=B22222" class="badge">
+    <img src="https://img.shields.io/badge/-VSCode-FF0000?style=for-the-badge&logo=VSCode&logocolor=1E90FF" class="badge">
 </p>
 
 <h3>My Projects</h3>
@@ -69,7 +69,7 @@
 
 <style>
 .contact-links a {
-    margin-right: 2cm;
+    margin-right: 20px;
     display: inline-block;
 }
 
@@ -77,8 +77,8 @@
     font-size: 1.2em;
     padding: 5px 10px;
     background-color: #87CEFA; /* Updated to light blue color */
-    border-radius: 50%; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 60%; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
     margin: 5px;
     display: inline-block;
 }
