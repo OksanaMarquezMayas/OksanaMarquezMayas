@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 .contact-links a {
     margin-right: 20px;
@@ -17,7 +14,6 @@
     display: inline-block;
 }
 </style>
-</head>
 [![Header](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)
 
 <h1>Portfolio</h1>
