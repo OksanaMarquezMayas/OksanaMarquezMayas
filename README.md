@@ -39,21 +39,21 @@
 
 <h3>Languages and Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/-Jira-1E90FF?style=for-the-badge&logo=jira&logocolor=47C5FB" class="badge">
-    <img src="https://img.shields.io/badge/-Trello-1E90FF?style=for-the-badge&logo=trello&logocolor=097CDB" class="badge">
-    <img src="https://img.shields.io/badge/-TestRail-1E90FF?style=for-the-badge&logo=testrail&logocolor=F8C52C" class="badge">
-    <img src="https://img.shields.io/badge/-Mantis-1E90FF?style=for-the-badge&logo=mantis&logocolor=F88C00" class="badge">
-    <img src="https://img.shields.io/badge/-SQL-1E90FF?style=for-the-badge&logo=mysql&logocolor=C1121F" class="badge">
-    <img src="https://img.shields.io/badge/-Postman-1E90FF?style=for-the-badge&logo=postman&logocolor=E5D3FF" class="badge">
-    <img src="https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=JavaScript&logocolor=6296CC" class="badge">
-    <img src="https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html&logocolor=00648B" class="badge">
-    <img src="https://img.shields.io/badge/-CSS-1E90FF?style=for-the-badge&logo=css&logocolor=8ECAE6" class="badge">
-    <img src="https://img.shields.io/badge/-Slack-1E90FF?style=for-the-badge&logo=slack&logocolor=FFB703" class="badge">
-    <img src="https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=git&logocolor=FFAFCC" class="badge">
-    <img src="https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logocolor=CDB4DB" class="badge">
-    <img src="https://img.shields.io/badge/-JMeter-1E90FF?style=for-the-badge&logo=jmeter&logocolor=FB8500" class="badge">
-    <img src="https://img.shields.io/badge/-DevTools-1E90FF?style=for-the-badge&logo=devtools&logocolor=C1121F" class="badge">
-    <img src="https://img.shields.io/badge/-VSCode-1E90FF?style=for-the-badge&logo=VSCode&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-Jira-87CEFA?style=for-the-badge&logo=jira&logocolor=1E90FF" class="badge">
+    <img src="https://img.shields.io/badge/-Trello-87CEFA?style=for-the-badge&logo=trello&logocolor=00BFFF" class="badge">
+    <img src="https://img.shields.io/badge/-TestRail-87CEFA?style=for-the-badge&logo=testrail&logocolor=FFD700" class="badge">
+    <img src="https://img.shields.io/badge/-Mantis-87CEFA?style=for-the-badge&logo=mantis&logocolor=FFA500" class="badge">
+    <img src="https://img.shields.io/badge/-SQL-87CEFA?style=for-the-badge&logo=mysql&logocolor=FF4500" class="badge">
+    <img src="https://img.shields.io/badge/-Postman-87CEFA?style=for-the-badge&logo=postman&logocolor=FFA07A" class="badge">
+    <img src="https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=JavaScript&logocolor=FFD700" class="badge">
+    <img src="https://img.shields.io/badge/-HTML-87CEFA?style=for-the-badge&logo=html&logocolor=FF6347" class="badge">
+    <img src="https://img.shields.io/badge/-CSS-87CEFA?style=for-the-badge&logo=css&logocolor=4682B4" class="badge">
+    <img src="https://img.shields.io/badge/-Slack-87CEFA?style=for-the-badge&logo=slack&logocolor=FFB6C1" class="badge">
+    <img src="https://img.shields.io/badge/-Git-87CEFA?style=for-the-badge&logo=git&logocolor=FF6347" class="badge">
+    <img src="https://img.shields.io/badge/-GitHub-87CEFA?style=for-the-badge&logo=GitHub&logocolor=800080" class="badge">
+    <img src="https://img.shields.io/badge/-JMeter-87CEFA?style=for-the-badge&logo=jmeter&logocolor=FF4500" class="badge">
+    <img src="https://img.shields.io/badge/-DevTools-87CEFA?style=for-the-badge&logo=devtools&logocolor=B22222" class="badge">
+    <img src="https://img.shields.io/badge/-VSCode-87CEFA?style=for-the-badge&logo=VSCode&logocolor=1E90FF" class="badge">
 </p>
 
 <h3>My Projects</h3>
@@ -76,7 +76,7 @@
 .badge {
     font-size: 1.2em;
     padding: 5px 10px;
-    background-color: #1E90FF; /* Updated to blue color */
+    background-color: #87CEFA; /* Updated to light blue color */
     border-radius: 50%; /* Rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 5px;
