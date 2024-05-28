@@ -57,7 +57,7 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
         <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports</a></li>
-        <li><a href="https://www.postman.com/oksanamarq/workspace/oksana-marquez-trello">Postman</a></li>
+        <li><a href="https://www.postman.com/oksanamarq/workspace/oksana-marquez-trello/collection/34355286-64a2c5a2-fa3a-44fb-97f7-1636848c591f">Postman</a></li>
         <li><a href="https://docs.google.com/document/d/1gNLugpQn8KIuZn9_H3r1L4rhwO03_MoU2vxlPW6v-Ks/edit?usp=sharing">SQL Queries</a></li>
         <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
     </ul>
