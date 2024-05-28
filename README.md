@@ -35,21 +35,21 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 
 <h3>Languages and Tools</h3>
 
-![Jira](https://img.shields.io/badge/-Jira-090909?style-for-the-badge&logo=jira&logocolor=47C5FB)
-![Trello](https://img.shields.io/badge/-Trello-090909?style-for-the-badge&logo=trello&logocolor=097CDB)
-![TestRail](https://img.shields.io/badge/-TestRail-090909?style-for-the-badge&logo=testrail&logocolor=F8C52C)
-![Mantis](https://img.shields.io/badge/-Mantis-090909?style-for-the-badge&logo=mantis&logocolor=F88C00)
-![Sql](https://img.shields.io/badge/-SQL-090909?style-for-the-badge&logo=mysql&logocolor=C1121F)
-![Postman](https://img.shields.io/badge/-Postman-090909?style-for-the-badge&logo=postman&logocolor=E5D3FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript&logocolor=6296CC)
-![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo=html&logocolor=00648B)
-![CSS](https://img.shields.io/badge/-CSS-090909?style-for-the-badge&logo=css&logocolor=8ECAE6)
-![Slack](https://img.shields.io/badge/-Slack-090909?style-for-the-badge&logo=slack&logocolor=FFB703)
-![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=git&logocolor=FFAFCC)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style-for-the-badge&logo=GitHub&logocolor=CDB4DB)
-![JMeter](https://img.shields.io/badge/-Jmeter-090909?style-for-the-badge&logo=jmeter&logocolor=FB8500)
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style-for-the-badge&logo=devtools&logocolor=C1121F)
-![VisualCode](https://img.shields.io/badge/-VSCode-090909?style-for-the-badge&logo=VSCode&logocolor=C1121F)
+![Jira](https://img.shields.io/badge/-Jira-c2beba?style-for-the-badge&logo=jira&logocolor=47C5FB)
+![Trello](https://img.shields.io/badge/-Trello-c2beba?style-for-the-badge&logo=trello&logocolor=097CDB)
+![TestRail](https://img.shields.io/badge/-TestRail-c2beba?style-for-the-badge&logo=testrail&logocolor=F8C52C)
+![Mantis](https://img.shields.io/badge/-Mantis-c2beba?style-for-the-badge&logo=mantis&logocolor=F88C00)
+![Sql](https://img.shields.io/badge/-SQL-c2beba?style-for-the-badge&logo=mysql&logocolor=C1121F)
+![Postman](https://img.shields.io/badge/-Postman-c2beba?style-for-the-badge&logo=postman&logocolor=E5D3FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-c2beba?style-for-the-badge&logo=JavaScript&logocolor=6296CC)
+![HTML](https://img.shields.io/badge/-HTML-c2beba?style-for-the-badge&logo=html&logocolor=00648B)
+![CSS](https://img.shields.io/badge/-CSS-c2beba?style-for-the-badge&logo=css&logocolor=8ECAE6)
+![Slack](https://img.shields.io/badge/-Slack-c2beba?style-for-the-badge&logo=slack&logocolor=FFB703)
+![Git](https://img.shields.io/badge/-Git-c2beba?style-for-the-badge&logo=git&logocolor=FFAFCC)
+![GitHub](https://img.shields.io/badge/-GitHub-c2beba?style-for-the-badge&logo=GitHub&logocolor=CDB4DB)
+![JMeter](https://img.shields.io/badge/-Jmeter-c2beba?style-for-the-badge&logo=jmeter&logocolor=FB8500)
+![DevTools](https://img.shields.io/badge/-DevTools-c2beba?style-for-the-badge&logo=devtools&logocolor=C1121F)
+![VisualCode](https://img.shields.io/badge/-VSCode-c2beba?style-for-the-badge&logo=VSCode&logocolor=C1121F)
 
 <h3>My Projects</h3>
     <ul>
