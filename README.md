@@ -39,21 +39,21 @@
 
 <h3>Languages and Tools</h3>
 <p style="font-size:1.2em; padding:5px 10px; border-radius:50%; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); margin:5px; display:inline-block;">
-    <img src="https://img.shields.io/badge/-Jira-FF0000?style=for-the-badge&logo=jira&logocolor=1E90FF">
+    <img src="https://img.shields.io/badge/-Jira-B0082?style=for-the-badge&logo=jira&logocolor=1E90FF">
     <img src="https://img.shields.io/badge/-Trello-FF7F00?style=for-the-badge&logo=trello&logocolor=00BFFF">
-    <img src="https://img.shields.io/badge/-TestRail-FFFF00?style=for-the-badge&logo=testrail&logocolor=FFD700">
-    <img src="https://img.shields.io/badge/-Mantis-00FF00?style=for-the-badge&logo=mantis&logocolor=FFA500">
-    <img src="https://img.shields.io/badge/-SQL-0000FF?style=for-the-badge&logo=mysql&logocolor=1E90FF">
-    <img src="https://img.shields.io/badge/-Postman-4B0082?style=for-the-badge&logo=postman&logocolor=FFA07A">
-    <img src="https://img.shields.io/badge/-JavaScript-9400D3?style=for-the-badge&logo=JavaScript&logocolor=FFD700">
-    <img src="https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html&logocolor=FF6347">
+    <img src="https://img.shields.io/badge/-TestRail-B0082?style=for-the-badge&logo=testrail&logocolor=FFD700">
+    <img src="https://img.shields.io/badge/-Mantis-B0082?style=for-the-badge&logo=mantis&logocolor=FFA500">
+    <img src="https://img.shields.io/badge/-SQL-B0082?style=for-the-badge&logo=mysql&logocolor=1E90FF">
+    <img src="https://img.shields.io/badge/-Postman-B0082?style=for-the-badge&logo=postman&logocolor=FFA07A">
+    <img src="https://img.shields.io/badge/-JavaScript-9B0082?style=for-the-badge&logo=JavaScript&logocolor=FFD700">
+    <img src="https://img.shields.io/badge/-HTML-FB0082?style=for-the-badge&logo=html&logocolor=FF6347">
     <img src="https://img.shields.io/badge/-CSS-FF7F00?style=for-the-badge&logo=css&logocolor=4682B4">
-    <img src="https://img.shields.io/badge/-Slack-FFFF00?style=for-the-badge&logo=slack&logocolor=FFB6C1">
-    <img src="https://img.shields.io/badge/-Git-00FF00?style=for-the-badge&logo=git&logocolor=FF6347">
-    <img src="https://img.shields.io/badge/-GitHub-0000FF?style=for-the-badge&logo=GitHub&logocolor=800080">
+    <img src="https://img.shields.io/badge/-Slack-B0082?style=for-the-badge&logo=slack&logocolor=FFB6C1">
+    <img src="https://img.shields.io/badge/-Git-B0082?style=for-the-badge&logo=git&logocolor=FF6347">
+    <img src="https://img.shields.io/badge/-GitHub-B0082?style=for-the-badge&logo=GitHub&logocolor=800080">
     <img src="https://img.shields.io/badge/-JMeter-4B0082?style=for-the-badge&logo=jmeter&logocolor=FF4500">
-    <img src="https://img.shields.io/badge/-DevTools-9400D3?style=for-the-badge&logo=devtools&logocolor=B22222">
-    <img src="https://img.shields.io/badge/-VSCode-FF0000?style=for-the-badge&logo=VSCode&logocolor=1E90FF">
+    <img src="https://img.shields.io/badge/-DevTools-9B0082?style=for-the-badge&logo=devtools&logocolor=B22222">
+    <img src="https://img.shields.io/badge/-VSCode-B0082?style=for-the-badge&logo=VSCode&logocolor=1E90FF">
 </p>
 
 <h3>My Projects</h3>
