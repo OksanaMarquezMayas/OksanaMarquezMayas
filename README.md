@@ -11,7 +11,7 @@
 
 <h3>About Me</h3>
 
-I'm a passionate and motivated manual QA Engineer with a strong foundation in testing theory and a growing skillset. With 6 months of total experience in software testing, I've spent the last 2 months actively working as a freelancer on platforms like Testbirds, UTest, and TesterWork. During this freelance time, I've honed my skills in identifying and reporting software defects across various applications.
+<p>I'm a passionate and motivated manual QA Engineer with a strong foundation in testing theory and a growing skillset. With 6 months of total experience in software testing, I've spent the last 2 months actively working as a freelancer on platforms like Testbirds, UTest, and TesterWork. During this freelance time, I've honed my skills in identifying and reporting software defects across various applications.</p>
 
 <h3>My Strengths:</h3>
 <ul>
@@ -21,7 +21,8 @@ I'm a passionate and motivated manual QA Engineer with a strong foundation in te
     <li><b>Basic Programming Knowledge:</b> Familiar with web development fundamentals like HTML, CSS, and JavaScript. Understanding of scripting languages like Python and data formats like JSON and XML adds value to my testing approach.</li>
     <li><b>Teamwork:</b> Successfully collaborated on a team project testing the TaskPro application, contributing to improved test management practices.</li>
 </ul>
-I'm constantly seeking opportunities to learn and grow as a tester. I'm excited to leverage my skills and knowledge to contribute to the success of your project.
+
+<p>I'm constantly seeking opportunities to learn and grow as a tester. I'm excited to leverage my skills and knowledge to contribute to the success of your project.</p>
 
 <h3>Courses</h3>
 <ul>
@@ -38,21 +39,21 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 
 <h3>Languages and Tools</h3>
 <p>
-    ![Jira](https://img.shields.io/badge/-Jira-c2beba?style=for-the-badge&logo=jira&logocolor=47C5FB)
-    ![Trello](https://img.shields.io/badge/-Trello-c2beba?style=for-the-badge&logo=trello&logocolor=097CDB)
-    ![TestRail](https://img.shields.io/badge/-TestRail-c2beba?style=for-the-badge&logo=testrail&logocolor=F8C52C)
-    ![Mantis](https://img.shields.io/badge/-Mantis-c2beba?style=for-the-badge&logo=mantis&logocolor=F88C00)
-    ![SQL](https://img.shields.io/badge/-SQL-c2beba?style=for-the-badge&logo=mysql&logocolor=C1121F)
-    ![Postman](https://img.shields.io/badge/-Postman-c2beba?style=for-the-badge&logo=postman&logocolor=E5D3FF)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-c2beba?style=for-the-badge&logo=JavaScript&logocolor=6296CC)
-    ![HTML](https://img.shields.io/badge/-HTML-c2beba?style=for-the-badge&logo=html&logocolor=00648B)
-    ![CSS](https://img.shields.io/badge/-CSS-c2beba?style=for-the-badge&logo=css&logocolor=8ECAE6)
-    ![Slack](https://img.shields.io/badge/-Slack-c2beba?style=for-the-badge&logo=slack&logocolor=FFB703)
-    ![Git](https://img.shields.io/badge/-Git-c2beba?style=for-the-badge&logo=git&logocolor=FFAFCC)
-    ![GitHub](https://img.shields.io/badge/-GitHub-c2beba?style=for-the-badge&logo=GitHub&logocolor=CDB4DB)
-    ![JMeter](https://img.shields.io/badge/-JMeter-c2beba?style=for-the-badge&logo=jmeter&logocolor=FB8500)
-    ![DevTools](https://img.shields.io/badge/-DevTools-c2beba?style=for-the-badge&logo=devtools&logocolor=C1121F)
-    ![VSCode](https://img.shields.io/badge/-VSCode-c2beba?style=for-the-badge&logo=VSCode&logocolor=C1121F)
+    <img src="https://img.shields.io/badge/-Jira-c2beba?style=for-the-badge&logo=jira&logocolor=47C5FB" class="badge">
+    <img src="https://img.shields.io/badge/-Trello-c2beba?style=for-the-badge&logo=trello&logocolor=097CDB" class="badge">
+    <img src="https://img.shields.io/badge/-TestRail-c2beba?style=for-the-badge&logo=testrail&logocolor=F8C52C" class="badge">
+    <img src="https://img.shields.io/badge/-Mantis-c2beba?style=for-the-badge&logo=mantis&logocolor=F88C00" class="badge">
+    <img src="https://img.shields.io/badge/-SQL-c2beba?style=for-the-badge&logo=mysql&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-Postman-c2beba?style=for-the-badge&logo=postman&logocolor=E5D3FF" class="badge">
+    <img src="https://img.shields.io/badge/-JavaScript-c2beba?style=for-the-badge&logo=JavaScript&logocolor=6296CC" class="badge">
+    <img src="https://img.shields.io/badge/-HTML-c2beba?style=for-the-badge&logo=html&logocolor=00648B" class="badge">
+    <img src="https://img.shields.io/badge/-CSS-c2beba?style=for-the-badge&logo=css&logocolor=8ECAE6" class="badge">
+    <img src="https://img.shields.io/badge/-Slack-c2beba?style=for-the-badge&logo=slack&logocolor=FFB703" class="badge">
+    <img src="https://img.shields.io/badge/-Git-c2beba?style=for-the-badge&logo=git&logocolor=FFAFCC" class="badge">
+    <img src="https://img.shields.io/badge/-GitHub-c2beba?style=for-the-badge&logo=GitHub&logocolor=CDB4DB" class="badge">
+    <img src="https://img.shields.io/badge/-JMeter-c2beba?style=for-the-badge&logo=jmeter&logocolor=FB8500" class="badge">
+    <img src="https://img.shields.io/badge/-DevTools-c2beba?style=for-the-badge&logo=devtools&logocolor=C1121F" class="badge">
+    <img src="https://img.shields.io/badge/-VSCode-c2beba?style=for-the-badge&logo=VSCode&logocolor=C1121F" class="badge">
 </p>
 
 <h3>My Projects</h3>
@@ -73,9 +74,7 @@ I'm constantly seeking opportunities to learn and grow as a tester. I'm excited 
 }
 
 .badge {
-    font-size: 1em;
-    background: rgba(48, 174, 227, 1);
-    color: white;
+    font-size: 1.2em;
     padding: 5px 10px;
     border-radius: 12px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
