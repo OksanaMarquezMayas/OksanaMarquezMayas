@@ -39,7 +39,7 @@
 
 <h3>Languages and Tools</h3>
 <p style="font-size:1.2em; padding:5px 10px; border-radius:50%; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); margin:5px; display:inline-block;">
-    <img src="https://img.shields.io/badge/-Jira-FF0000?style=for-the-badge&logo=jira&logocolor=1E90FF" class="badge">
+    <img src="https://img.shields.io/badge/-Jira-FF0000?style=for-the-badge&logo=jira&logocolor=1E90FF">
     <img src="https://img.shields.io/badge/-Trello-FF7F00?style=for-the-badge&logo=trello&logocolor=00BFFF">
     <img src="https://img.shields.io/badge/-TestRail-FFFF00?style=for-the-badge&logo=testrail&logocolor=FFD700">
     <img src="https://img.shields.io/badge/-Mantis-00FF00?style=for-the-badge&logo=mantis&logocolor=FFA500">
