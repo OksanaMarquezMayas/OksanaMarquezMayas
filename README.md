@@ -1,25 +1,9 @@
-<style>
-.contact-links a {
-    margin-right: 20px;
-    display: inline-block;
-}
-
-.badge {
-    font-size: 1.2em;
-    padding: 5px 10px;
-    background-color: #1E90FF; /* Updated to blue color */
-    border-radius: 100%; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 5px;
-    display: inline-block;
-}
-</style>
 [![Header](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)](<https://github.com/OksanaMarquezMayas/OksanaMarquezMayas/blob/main/assets/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png>)
 
 <h1>Portfolio</h1>
 
 <h3>Contact Me</h3>
-<div class="contact-links">
+<div style="margin-right: 20px; display: inline-block;">
     <a href="https://t.me/oks_marma">Telegram</a>
     <a href="https://wa.link/xp8801">WhatsApp</a>
     <a href="https://www.linkedin.com/in/oksana-marquezmayas-122a452a4/">LinkedIn</a>
@@ -54,7 +38,7 @@
 </ul>
 
 <h3>Languages and Tools</h3>
-<p>
+<p style="font-size: 1.2em; padding: 5px 10px; border-radius: 50%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); margin: 5px; display: inline-block;">
     <img src="https://img.shields.io/badge/-Jira-FF0000?style=for-the-badge&logo=jira&logocolor=1E90FF" class="badge">
     <img src="https://img.shields.io/badge/-Trello-FF7F00?style=for-the-badge&logo=trello&logocolor=00BFFF" class="badge">
     <img src="https://img.shields.io/badge/-TestRail-FFFF00?style=for-the-badge&logo=testrail&logocolor=FFD700" class="badge">
