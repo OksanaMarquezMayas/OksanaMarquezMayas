@@ -69,7 +69,7 @@
 
 <style>
 .contact-links a {
-    margin-right: 2cm;
+    margin-right: 20px;
     display: inline-block;
 }
 
@@ -77,7 +77,7 @@
     font-size: 1.2em;
     padding: 5px 10px;
     background-color: #1E90FF; /* Updated to blue color */
-    border-radius: 50%; /* Rounded corners */
+    border-radius: 100%; /* Rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin: 5px;
     display: inline-block;
