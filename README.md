@@ -67,19 +67,3 @@
     <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
 </ul>
 
-<style>
-.contact-links a {
-    margin-right: 2cm;
-    display: inline-block;
-}
-
-.badge {
-    font-size: 1.2em;
-    padding: 5px 10px;
-    background-color: #1E90FF; /* Updated to blue color */
-    border-radius: 50%; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 5px;
-    display: inline-block;
-}
-</style>
