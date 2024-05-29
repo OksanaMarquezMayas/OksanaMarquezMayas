@@ -34,7 +34,7 @@
 <ul>
     <li><a href="https://drive.google.com/file/d/1I_q39Cz27kQWRBhvxfMHQKeDcL2dRTto/view?usp=sharing">GoIT</a></li>
     <li><a href="https://drive.google.com/file/d/1_qJK6ddaMyPzsj4cbzBhkVpUS1bcp71C/view?usp=sharing">Kharkiv IT Cluster</a></li>
-    <li><a href="#">QATestLab</a></li>
+    <li><a href="https://drive.google.com/file/d/1PAR8sYaKemW00WeAlTZq8BXXAtuoqKm8/view?usp=sharing">QATestLab</a></li>
 </ul>
 
 <h3>Languages and Tools</h3>
@@ -61,7 +61,7 @@
     <li><a href="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing">Test Plan</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports, </a><a href="https://drive.google.com/drive/folders/1Zi8xsLe1RZ6do5WlhMuDQGN3zldF2b6M?usp=sharing"> More Bug Reports</a></li>
     <li><a href="https://www.postman.com/oksanamarq/workspace/oksana-marquez-trello/collection/34355286-64a2c5a2-fa3a-44fb-97f7-1636848c591f">Postman</a></li>
     <li><a href="https://docs.google.com/document/d/1gNLugpQn8KIuZn9_H3r1L4rhwO03_MoU2vxlPW6v-Ks/edit?usp=sharing">SQL Queries</a></li>
     <li><a href="https://docs.google.com/document/d/1QZlglsdBo5i861Aybo2hJhecT3VU4w7QjxQA8YQARjE/edit?usp=sharing">Git</a></li>
