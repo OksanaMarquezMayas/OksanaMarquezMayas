@@ -4,7 +4,7 @@
 
 <h3>Contact Me</h3>
 <div style="margin-right:20px; display:inline-block;">
-    <a href="https://t.me/oks_marma">Telegram</a>
+    <a href="https://t.me/oksmar_ma">Telegram</a>
     <a href="https://wa.link/xp8801">WhatsApp</a>
     <a href="https://www.linkedin.com/in/oksana-marquezmayas-122a452a4/">LinkedIn</a>
 </div>
@@ -59,7 +59,7 @@
 <h3>My Projects</h3>
 <ul>
     <li><a href="https://docs.google.com/document/d/1RZrPEcAFF3qvlHtcLMAvxWuV9sgHVhIG7xFzRuaPsaI/edit?usp=sharing">Test Plan</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1LzwqUfEJZrWpD1oP4ev3_1H-BVTEKXcmk7Sytg1YxMs/edit?usp=sharing">Test Cases</a>,</a><a href="https://docs.google.com/spreadsheets/d/1100uX0hk-gzWpSeTMaLqBj-4N_h0qLSMgtbDYqZfrAo/edit?usp=sharing">More Test Cases</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/17PIicMMMw9ZKPZ0kp7LntIfZQt93YerU/edit?usp=sharing&ouid=106552989132086504806&rtpof=true&sd=true">Check-lists</a></li>
     <li><a href="https://docs.google.com/spreadsheets/d/17wGAq_llLUVQoRoib1OW7BlBA5s2jGqZVMwP2a_c-0A/edit?usp=sharing">Bug Reports, </a><a href="https://drive.google.com/drive/folders/1Zi8xsLe1RZ6do5WlhMuDQGN3zldF2b6M?usp=sharing"> More Bug Reports</a></li>
     <li><a href="https://www.postman.com/oksanamarq/workspace/oksana-marquez-trello/collection/34355286-64a2c5a2-fa3a-44fb-97f7-1636848c591f">Postman</a></li>
